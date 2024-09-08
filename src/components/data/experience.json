@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "role": "Post Graduation Diploma in Advanced Computing",
+      "organisation": "C-DAC",
+      "startDate": "Sept, 2023",
+      "endDate": "Feb, 2024",
+      "location": "MET IIT Nashik",
+      "experiences": [
+        "Skills: Java, SpringBoot, PHP, Laravel, MySQL,",
+        "HTML, CSS, Bootstrap, JavaScript, React JS, Node JS, MongoDB"
+      ],
+      "imageSrc": "company/google.png"
+    },
+
+    {
+      "id": 2,
+      "role": "Junior Laravel Developer",
+      "organisation": "Junior Laravel Developer ",
+      "startDate": "April, 2023",
+      "endDate": "Sept, 2023",
+      "location": "InfoCentroid Software Solutions Pvt. Ltd, Indore",
+      "experiences": [
+        "Six Month Experience",
+        ""
+      ],
+      "imageSrc": "company/microsoft.png"
+    },
+    
+    {
+      "id": 3,
+      "role": "Bacholor's Degree In Computer Science Engineering",
+      "organisation": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (R.G.P.V) Bhopal University",
+      "startDate": "Aug, 2015",
+      "endDate": "Jun, 2019",
+      "location": "Thakur Shivkumarsingh Memorial Engineering College, Burhanpur",
+      "experiences": [
+        "Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal University",
+        ""
+      ],
+      "imageSrc": "company/netflix.png"
+    }
+    
+  ]
